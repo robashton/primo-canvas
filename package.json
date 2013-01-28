@@ -1,6 +1,6 @@
 {
   "name": "primo-canvas",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Offscreen canvas for PrimoJS",
   "main": "memorycanvas.js",
   "scripts": {
