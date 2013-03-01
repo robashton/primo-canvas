@@ -39,7 +39,7 @@ MemoryCanvas.prototype = {
     return map
   },
   dispose: function() {
-    document.removeElement(this.canvas)
+    // TODO: Er, work out if I have to do anything to avoid leaks here??
   }
 }
 module.exports = MemoryCanvas
